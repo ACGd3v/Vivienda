@@ -10,6 +10,10 @@
  */
 public class Vivienda 
 {
+    /**
+     * @author Alvaro Camacho Gomez
+     * @version: v0.1 git marzo_2022
+     */
     private double precio;
     private int numHabitaciones;
     private double superficie;
